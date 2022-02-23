@@ -29,3 +29,6 @@ test('it disables the submit button if the user enters a non-positive integer', 
 test('it shows helper text if the user enters an error state', () => {
 })
 
+test('Any error state should be reset when the user clicks a take-home pay button', () => {
+})
+
